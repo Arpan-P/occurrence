@@ -1,0 +1,7 @@
+Hey!! I am an excellent geek.
+Hey!! I am an excellent geek.
+Hey!! I am an excellent geek.
+Hey!! I am an excellent geek.
+I wanted to be a great geek,
+I might be a bad geek.
+['I', 'a', 'great', 'might', 'excellent', 'an', 'geek,', 'bad', 'geek.', 'am', 'be', 'to', 'wanted', 'Hey!!']

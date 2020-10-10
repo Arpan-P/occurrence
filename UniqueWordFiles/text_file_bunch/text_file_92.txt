@@ -1,0 +1,7 @@
+I am a coder.
+I wanted to be a great geek,
+Anyways, I am a coder
+Hey!! I am an excellent geek.
+Anyways, I am a coder
+I might be a bad geek.
+['I', 'great', 'might', 'excellent', 'Anyways,', 'an', 'geek,', 'coder', 'bad', 'geek.', 'am', 'be', 'a', 'coder.', 'to', 'wanted', 'Hey!!']
